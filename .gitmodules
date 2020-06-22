@@ -1,0 +1,6 @@
+[submodule "git_trainning"]
+	path = git_trainning
+	url = https://github.com/HernanERodriguez/git_trainning.git
+[submodule "CursoGit"]
+	path = CursoGit
+	url = https://github.com/HernanERodriguez/CursoGit.git
